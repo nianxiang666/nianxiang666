@@ -1,0 +1,15 @@
+# Compiled binaries
+fixed_unique_paths
+
+# Object files
+*.o
+*.obj
+
+# Build artifacts
+*.exe
+*.out
+a.out
+
+# Temporary files
+*.tmp
+*~
